@@ -1,5 +1,4 @@
 # Automating-Account-Balance
-Creating a comprehensive technical document with fully detailed explanations and code samples is a substantial task. Below is a more detailed technical document with the code sample included:
 
 # Technical Document: Automating Account Balance Consolidation in a Tron OTC Exchange
 
